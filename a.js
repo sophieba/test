@@ -102,3 +102,7 @@ jQuery.fn = jQuery.prototype = {
   sort: arr.sort,
   splice: arr.splice
 };
+
+function showName() {
+  alert('my name is lxy');
+}
